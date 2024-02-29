@@ -1,11 +1,13 @@
 package br.com.lucasts.screenmatch.model;
 
 public enum Categoria {
+
     ACAO("Action"),
     ROMANCE("Romance"),
     COMEDIA("Comedy"),
     DRAMA("Drama"),
     CRIME("Crime");
+
 
     private String categoriaOmdb;
 
